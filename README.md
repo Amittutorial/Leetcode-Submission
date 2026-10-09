@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0220-contains-duplicate-iii](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0220-contains-duplicate-iii) |
 ## Sliding Window
 |  |
@@ -26,4 +27,12 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0220-contains-duplicate-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
