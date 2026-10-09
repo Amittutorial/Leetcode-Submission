@@ -7,6 +7,7 @@
 | [0058-length-of-last-word](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0065-valid-number) |
 | [0179-largest-number](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0179-largest-number) |
 | [0220-contains-duplicate-iii](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0220-contains-duplicate-iii) |
+| [0242-valid-anagram](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0242-valid-anagram) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -65,4 +67,5 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
