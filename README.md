@@ -13,10 +13,12 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0179-largest-number) |
+| [0219-contains-duplicate-ii](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0220-contains-duplicate-iii) |
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0220-contains-duplicate-iii) |
 ## Sorting
 |  |
@@ -59,4 +61,8 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0179-largest-number) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
