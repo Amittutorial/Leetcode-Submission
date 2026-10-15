@@ -70,4 +70,12 @@
 | [0001-two-sum](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0242-valid-anagram) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
