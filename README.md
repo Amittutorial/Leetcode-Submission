@@ -8,6 +8,7 @@
 | [0065-valid-number](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0065-valid-number) |
 | [0179-largest-number](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -84,4 +85,9 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0002-add-two-numbers) |
+| [0412-fizz-buzz](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
