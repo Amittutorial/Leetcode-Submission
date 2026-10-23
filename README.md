@@ -79,12 +79,14 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0025-reverse-nodes-in-k-group) |
 | [0147-insertion-sort-list](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
