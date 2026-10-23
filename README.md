@@ -19,6 +19,7 @@
 | [0179-largest-number](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0220-contains-duplicate-iii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Amittutorial/Leetcode-Submission/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -95,4 +96,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Amittutorial/Leetcode-Submission/tree/master/0412-fizz-buzz) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Amittutorial/Leetcode-Submission/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
